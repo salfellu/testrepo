@@ -4,4 +4,11 @@ here testing...
 
 more testing
 
+<<<<<<< HEAD
 even more...
+=======
+
+
+commit via testbranch
+
+>>>>>>> test/testbranch
