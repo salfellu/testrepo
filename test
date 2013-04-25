@@ -4,7 +4,11 @@ here testing...
 
 more testing
 
+<<<<<<< HEAD
 
 
 commit via testbranch
 
+=======
+even more...
+>>>>>>> test/master
